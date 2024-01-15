@@ -1,5 +1,8 @@
 {
-  "systems": [{ "file": "snes", "name": "Super Nintendo" }],
+  "systems": [
+    { "file": "atari7800", "name": "Atari 7800" },
+    { "file": "snes", "name": "Super Nintendo" }
+  ],
   "roms": {
     "snes": [{ "file": "super_mario_world", "name": "Super Mario World" }]
   }
