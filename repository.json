@@ -1,4 +1,4 @@
 {
-  "systems": [],
+  "systems": [{ "file": "snes", "name": "Super Nintendo" }],
   "roms": {}
 }
