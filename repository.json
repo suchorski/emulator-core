@@ -1,4 +1,6 @@
 {
   "systems": [{ "file": "snes", "name": "Super Nintendo" }],
-  "roms": {}
+  "roms": {
+    "snes": [{ "file": "super_mario_world", "name": "Super Mario World" }]
+  }
 }
