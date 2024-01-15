@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal EmulatorJS</title>
+    <style type="text/css">
+      html,
+      body,
+      #page {
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        background-color: #000000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="page">
+      <div id="game">Loading...</div>
+    </div>
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const system = params.get("system");
+      const rom = params.get("rom");
+      if (!system || !rom) window.location.href = "https://vg.suchorski.com";
+      EJS_startOnLoaded = true;
+      EJS_fullscreenOnLoaded = true;
+      EJS_player = "#game";
+      EJS_core = system;
+      EJS_color = "#000000";
+      EJS_pathtodata =
+        "https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/";
+      EJS_gameUrl = `roms/${system}/${rom}.zip`;
+      EJS_biosUrl = `bios/${system}.zip`;
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/EmulatorJS/EmulatorJS@latest/data/loader.js"></script>
+  </body>
+</html>
