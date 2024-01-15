@@ -1,6 +1,7 @@
 {
   "systems": [
     { "file": "atari7800", "name": "Atari 7800" },
+    { "file": "gb", "name": "Game Boy" },
     { "file": "snes", "name": "Super Nintendo" }
   ],
   "roms": {
