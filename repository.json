@@ -3,6 +3,7 @@
     { "file": "atari7800", "name": "Atari 7800" },
     { "file": "gb", "name": "Game Boy" },
     { "file": "segaMS", "name": "Master System" },
+    { "file": "segaMD", "name": "Mega Drive" },
     { "file": "snes", "name": "Super Nintendo" }
   ],
   "roms": {
