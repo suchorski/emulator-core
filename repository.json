@@ -11,6 +11,7 @@
       { "file": "enduro", "name": "Enduro" },
       { "file": "river_raid", "name": "River Raid" }
     ],
+    "gb": [{ "file": "pokemon_crystal", "name": "Pokemon Crystal" }],
     "snes": [{ "file": "super_mario_world", "name": "Super Mario World" }]
   }
 }
