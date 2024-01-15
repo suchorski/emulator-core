@@ -7,6 +7,7 @@
     { "file": "snes", "name": "Super Nintendo" }
   ],
   "roms": {
+    "atari7800": [{ "file": "enduro", "name": "Enduro" }],
     "snes": [{ "file": "super_mario_world", "name": "Super Mario World" }]
   }
 }
