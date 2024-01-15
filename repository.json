@@ -12,6 +12,7 @@
       { "file": "river_raid", "name": "River Raid" }
     ],
     "gb": [{ "file": "pokemon_crystal", "name": "Pokemon Crystal" }],
+    "segaMS": [{ "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" }],
     "snes": [{ "file": "super_mario_world", "name": "Super Mario World" }]
   }
 }
