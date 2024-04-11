@@ -31,6 +31,8 @@
     ],
     "segaMS": [
       { "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" },
+      { "file": "california_games", "name": "California Games"},
+      { "file": "california_games_2", "name": "California Games 2"},
       { "file": "daffy_duck_in_hollywood", "name": "Daffy Duck in Hollywood" },
       { "file": "monica_no_castelo_do_dragao", "name": "Mônica no Castelo do Dragão" },
       { "file": "sonic_the_hedgehog", "name": "Sonic the Hedgehog" },
