@@ -32,7 +32,10 @@
     "segaMS": [
       { "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" },
       { "file": "daffy_duck_in_hollywood", "name": "Daffy Duck in Hollywood" },
-      { "file": "monica_no_castelo_do_dragao", "name": "Mônica no Castelo do Dragão" }
+      { "file": "monica_no_castelo_do_dragao", "name": "Mônica no Castelo do Dragão" },
+      { "file": "wonder_boy", "name": "Wonder Boy" },
+      { "file": "wonder_boy_2", "name": "Wonder Boy 2" },
+      { "file": "wonder_boy_3", "name": "Wonder Boy 3" }
     ],
     "segaMD": [
       { "file": "sonic_3d_blast", "name": "Sonic 3D Blast" },
