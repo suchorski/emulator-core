@@ -31,6 +31,9 @@
       { "file": "sonic_the_hedgehog_3_knucles", "name": "Sonic the Hedgehog 3 and Knucles" }
     ],
     "snes": [
+      { "file": "donkey_kong_country", "name": "Donkey Kong Country" },
+      { "file": "donkey_kong_country_2", "name": "Donkey Kong Country 2" },
+      { "file": "donkey_kong_country_3", "name": "Donkey Kong Country 3" },
       { "file": "super_mario_world", "name": "Super Mario World" },
       { "file": "ultimate_mortal_kombat _3", "name": "Ultimate Mortal Kombat 3" }
     ]
