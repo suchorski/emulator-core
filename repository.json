@@ -21,7 +21,10 @@
       { "file": "daffy_duck_in_hollywood", "name": "Daffy Duck in Hollywood" },
       { "file": "monica_no_castelo_do_dragao", "name": "Mônica no Castelo do Dragão" }
     ],
-    "segaMD": [{ "file": "sonic_the_hedgehog_2", "name": "Sonic the Hedgehog 2" }],
+    "segaMD": [
+      { "file": "sonic_the_hedgehog", "name": "Sonic the Hedgehog" },
+      { "file": "sonic_the_hedgehog_2", "name": "Sonic the Hedgehog 2" }
+    ],
     "snes": [
       { "file": "super_mario_world", "name": "Super Mario World" },
       { "file": "ultimate_mortal_kombat _3", "name": "Ultimate Mortal Kombat 3" }
