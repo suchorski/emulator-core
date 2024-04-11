@@ -1,5 +1,6 @@
 {
   "systems": [
+    { "file": "mame2003", "name": "Arcade", "required": true},
     { "file": "atari7800", "name": "Atari 7800", "required": false },
     { "file": "gb", "name": "Game Boy", "required": false },
     { "file": "gba", "name": "Game Boy Advance", "required": false },
@@ -9,6 +10,11 @@
     { "file": "snes", "name": "Super Nintendo", "required": false }
   ],
   "roms": {
+    "mame2003": [
+      { "file": "metal_slug", "name": "Metal Slug" },
+      { "file": "metal_slug_2", "name": "Metal Slug 2" },
+      { "file": "metal_slug_x", "name": "Metal Slug X" }
+    ],
     "atari7800": [
       { "file": "enduro", "name": "Enduro" },
       { "file": "entombed", "name": "Entombed" },
