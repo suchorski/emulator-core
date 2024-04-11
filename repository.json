@@ -9,6 +9,7 @@
   "roms": {
     "atari7800": [
       { "file": "enduro", "name": "Enduro" },
+      { "file": "entombed", "name": "Entombed" },
       { "file": "river_raid", "name": "River Raid" }
     ],
     "gb": [{ "file": "pokemon_crystal", "name": "Pokemon Crystal" }],
