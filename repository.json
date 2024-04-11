@@ -2,6 +2,7 @@
   "systems": [
     { "file": "atari7800", "name": "Atari 7800", "required": false },
     { "file": "gb", "name": "Game Boy", "required": false },
+    { "file": "gba", "name": "Game Boy Advance", "required": false },
     { "file": "segaMS", "name": "Master System", "required": false },
     { "file": "segaMD", "name": "Mega Drive", "required": false },
     { "file": "snes", "name": "Super Nintendo", "required": false }
@@ -16,6 +17,7 @@
       { "file": "pokemon_crystal", "name": "Pokemon Crystal" },
       { "file": "pokemon_yellow", "name": "Pokemon Yellow" }
     ],
+    "gba": [{ "file": "pokemon_emerald", "name": "Pokemon Emerald" }],
     "segaMS": [
       { "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" },
       { "file": "daffy_duck_in_hollywood", "name": "Daffy Duck in Hollywood" },
