@@ -38,6 +38,7 @@
       { "file": "mortal_kombat_2", "name": "Mortal Kombat 2" },
       { "file": "mortal_kombat_3", "name": "Mortal Kombat 3" },
       { "file": "mortal_kombat_3_ultimate", "name": "Mortal Kombat 3 Ultimate" },
+      { "file": "super_mario_kart", "name": "Super Mario Kart" },
       { "file": "super_mario_world", "name": "Super Mario World" }
     ]
   }
