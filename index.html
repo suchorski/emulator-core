@@ -23,7 +23,7 @@
       const params = new URLSearchParams(window.location.search);
       const system = params.get("system");
       const rom = params.get("rom");
-      const biosRequired = params.get("required") === true;
+      const biosRequired = params.get("required") === 'true';
       if (!system || !rom) window.location.href = "https://vg.suchorski.com";
       EJS_startOnLoaded = true;
       EJS_fullscreenOnLoaded = true;
