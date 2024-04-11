@@ -12,7 +12,10 @@
       { "file": "entombed", "name": "Entombed" },
       { "file": "river_raid", "name": "River Raid" }
     ],
-    "gb": [{ "file": "pokemon_crystal", "name": "Pokemon Crystal" }],
+    "gb": [
+      { "file": "pokemon_crystal", "name": "Pokemon Crystal" },
+      { "file": "pokemon_yellow", "name": "Pokemon Yellow" }
+    ],
     "segaMS": [
       { "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" },
       { "file": "daffy_duck_in_hollywood", "name": "Daffy Duck in Hollywood" },
