@@ -20,7 +20,8 @@
     ],
     "gba": [{ "file": "pokemon_emerald", "name": "Pokemon Emerald" }],
     "n64": [
-      { "file": "mario_kart_64", "name": "Mario Kart 64" }
+      { "file": "mario_kart_64", "name": "Mario Kart 64" },
+      { "file": "super_mario_64", "name": "Super Mario 64" }
     ],
     "segaMS": [
       { "file": "alex_kidd_in_miracle_world", "name": "Alex Kidd in Miracle World" },
