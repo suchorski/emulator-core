@@ -23,6 +23,7 @@
     ],
     "segaMD": [
       { "file": "sonic_3d_blast", "name": "Sonic 3D Blast" },
+      { "file": "sonic_and_knucles", "name": "Sonic And Knucles" },
       { "file": "sonic_the_hedgehog", "name": "Sonic the Hedgehog" },
       { "file": "sonic_the_hedgehog_2", "name": "Sonic the Hedgehog 2" }
     ],
