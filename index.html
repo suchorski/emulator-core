@@ -23,7 +23,7 @@
       const params = new URLSearchParams(window.location.search);
       const system = params.get("system");
       const rom = params.get("rom");
-      const biosRequired = params.get("required") === 'true';
+      const biosRequired = params.get("bios") !== null && params.get("bios") !== "false";
       if (!system || !rom) window.location.href = "https://vg.suchorski.com";
       EJS_startOnLoaded = true;
       EJS_fullscreenOnLoaded = true;
@@ -36,7 +36,7 @@
       EJS_defaultControls = {
         0: {
           0: {
-            value: "5",
+            value: "numpad 5",
             value2: "BUTTON_2",
           },
           1: {
