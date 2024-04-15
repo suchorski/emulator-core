@@ -1,11 +1,16 @@
 {
+  "keys": [{ "24": "i" }, { "25": "o" }, { "26": "p" }, { "27": "PageDown" }, { "28": "PaegUp" }, { "29": "End" }],
   "systems": [
     { "code": "mame2003", "name": "Arcade" },
     { "code": "atari7800", "name": "Atari 7800" },
     { "code": "gb", "name": "Game Boy" },
     { "code": "gba", "name": "Game Boy Advance" },
     { "code": "n64", "name": "Nintendo 64" },
-    { "code": "segaMS", "name": "Master System" },
+    {
+      "code": "segaMS",
+      "name": "Master System",
+      "keys": [{ "0": "numpad 4" }, { "1": "numpad 5" }, { "4": "w" }, { "5": "s" }, { "6": "a" }, { "7": "d" }]
+    },
     { "code": "segaMD", "name": "Mega Drive" },
     { "code": "snes", "name": "Super Nintendo" }
   ],
